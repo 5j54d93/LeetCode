@@ -2,7 +2,9 @@
 
 My code to solve LeetCode problem in C/C++
 
-## 👨🏻‍💻 My profile：[leetcode.com/5j_54d93](https://leetcode.com/5j_54d93/)
+## My profile
+
+[leetcode.com/5j_54d93](https://leetcode.com/5j_54d93/)
 
 ## License：MIT
 
